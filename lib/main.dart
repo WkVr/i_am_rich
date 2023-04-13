@@ -14,9 +14,7 @@ void main() {
         ),
         body: const Center(
           child: Image(
-            image: NetworkImage(
-              'https://www.freecodecamp.org/news/content/images/2022/09/jonatan-pie-3l3RwQdHRHg-unsplash.jpg',
-            ),
+            image: AssetImage('images/diamond.png'),
           ),
         ),
       ),
