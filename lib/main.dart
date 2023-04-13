@@ -5,7 +5,7 @@ void main() {
   runApp(
     MaterialApp(
       home: Scaffold(
-        backgroundColor: Colors.blueGrey[100],
+        backgroundColor: Colors.blueGrey,
         appBar: AppBar(
           title: const Center(
             child: Text('I Am Rich'),
